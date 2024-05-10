@@ -8,11 +8,6 @@ Neste repositório, você encontrará os desafios de projeto que concluí ao lon
    - Descrição: Desenvolvi um sistema bancário básico que permite aos usuários realizar operações bancárias simples, como depósito, saque e verificação de saldo.
    - Tecnologias: Python.
 
-## Como Utilizar
-
-- Cada projeto concluído está contido em seu próprio diretório neste repositório.
-- Dentro de cada diretório, você encontrará os arquivos necessários para o projeto, juntamente com instruções sobre como executá-lo.
-
 ## Autor
 
 Este repositório é mantido por [Pablo Pinheiro Ribeiro]([https://github.com/seu-usuario](https://github.com/Pablopinheiroo)).
